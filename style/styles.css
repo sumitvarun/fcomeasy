@@ -1,0 +1,178 @@
+body{
+    
+}
+.hover{
+    color: #efefef
+}
+/*start header icon bar style*/
+
+.icon-bar{
+    background-color: #efefef;/*sky- blue background*/
+}
+.activehome{
+    color: mediumvioletred
+    
+
+}
+.activesearch{
+    color: cadetblue
+}
+.activeenvelop{
+    color: coral
+}
+.activeglobe{
+    color: cornflowerblue
+    
+}
+.activetrash{
+    color: crimson
+    
+}
+/*end of header icon-bar home-search-envelop-globe-trash*/
+
+h1{
+    color:dimgrey;
+    font-style: italic;
+}
+p{font-family: "times new roman",times,serif;background-color: azure
+}
+/*main footer tag */
+footer{
+    background-color:#F2F6F5;
+    color:#34495E;
+    font-family: arial;
+    border-color:#efefef
+}
+/*fcomeasy of footer*/
+.footer{
+    font-family:arial;
+    color:#566573  ;
+    font-size: 16px;
+}
+/*the world largest web developer site*/
+.world{
+    background-color: #efefef;
+    color:blueviolet;
+    font-family: arial;   
+}
+/*designed by @teamfcom*/
+.designed{
+}
+/*contact with us:fcomeasy@gmail.com*/
+.contact{
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+
+
+/*previous button*/
+.previous {
+  background-color:blanchedalmond;
+  color: black;
+}
+
+/*next button*/
+.next {
+  background-color:dimgrey;
+  color: white;
+}
+
+/*>*/
+.round {
+  border-radius: 50%;
+}
+
+/*set height of body and the document to 100% to enable "full page tabs" */
+body, html {
+height:100%;
+margin: 0;
+}
+
+/*BUTTON STYLE TAB LINK*/
+.tablink {
+    border-style:double;
+    background-color:#C39BD3;
+    color:white;
+    border-color: brown
+    float:right;
+    border:none;
+    outline:none;
+    cursor:pointer;
+    padding: 5px 25px;
+    font-size: 17px;
+    width: auto;
+    height: auto;
+    
+}
+
+.tablink: hover {
+    background-color:cornsilk;
+    
+}
+/* style the tab content (and add height: 100% for full page content )*/
+.tabcontent {
+    color: white;
+    display: none;
+    padding:  100px 20px;
+    height: auto;
+    width: auto;
+} 
+
+.container{
+    text-align:left;
+    background-color: #484C7F;
+    color: white;
+    width: auto;
+    
+    
+    
+}
+
+.fa{
+    padding:;
+    font-size:;
+    width: auto;
+    text-align:;
+    text-decoration:;
+    
+}
+/*start footer-icon-bar facebook twitter google linkedin youtube instagram pinterest  snapchat yahoo*/
+.activefacebook{
+    
+}
+.activetwitter{
+    
+}
+.activegoogle{
+    
+}
+.activelinkedin{
+    
+}
+.activeyoutube{
+    
+}
+.activeinstagram{
+    
+}
+.activepinterest{
+    
+}
+.activesnapchat{
+    
+}
+.activeyahoo{
+    
+}
+/*end of the footer-icon-bar style*/
